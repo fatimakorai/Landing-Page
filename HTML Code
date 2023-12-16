@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page</title>
+    <link rel="stylesheet" href="task.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                Newsletter
+            </div>
+            <div class="menu">
+                <a href="#">Home</a>
+                <a href="#">About us</a>
+                <a href="#">My Write-ups</a>
+                <a href="#">Books Ideas</a>
+                <a href="#">Contact us</a>
+            </div>
+            <div class="signup">
+                <a href="#">Signup Here</a>
+            </div>
+        </nav>
+        <section class="header-text">
+            <span>Subscribe</span>
+            <h1>to our newsletter today!</h1>
+
+            <br>
+            <a href="#">Signup Here</a>
+        </section>
+
+    </header>
+</body>
+</html>
